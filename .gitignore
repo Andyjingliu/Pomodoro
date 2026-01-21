@@ -8,3 +8,9 @@ DerivedData/
 build/
 *.xcuserdata/
 *.xcuserstate
+*.xcuserstate
+*.xcuserdata/
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
